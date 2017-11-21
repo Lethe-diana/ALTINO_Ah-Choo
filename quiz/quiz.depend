@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511232316 source:c:\users\user\desktop\새온 알티노\quiz\main.c
+	<stdio.h>
+	"Altino.h"
+
+1509416443 c:\users\user\desktop\새온 알티노\quiz\altino.h
+	<stdio.h>
+	<windows.h>
+
