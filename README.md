@@ -1,2 +1,2 @@
 # ALTINO_Ah-Choo
-기창공 기말 1조 Ah-Choo입니다.
+oppm, burn-down chart, 누적비용표
